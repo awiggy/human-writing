@@ -1,0 +1,8 @@
+interface:
+  display_name: "活人感写作"
+  short_description: "从观点碰撞中澄清主旨、研究材料，再写成有活人感的中文作品"
+  default_prompt: "使用 $human-writing，先从反方角度检验我的观点，和我多轮碰撞并形成可写的共识，再研究材料、确定选题和框架，最后完成文章。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
